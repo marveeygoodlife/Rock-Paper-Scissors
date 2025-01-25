@@ -4,7 +4,7 @@ This is a Rock- Paper - Scissors game
 
 ## Table of Contents
 
-- [Problem_definition](#Problem_definition)
+- [Problem_definition](#problem_definition)
 - [Pseudo_code](#pseudo_code)
 - [Plan](#plan)
 - [Solution](#solution)
