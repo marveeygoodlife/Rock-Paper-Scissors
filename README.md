@@ -8,7 +8,7 @@ This is a Rock- Paper - Scissors game
 - [Pseudo_code](#pseudo_code)
 - [Plan](#plan)
 - [Solution](#solution)
-- [Conclusion](conclusion)
+- [Conclusion](#conclusion)
 
 ## PROBLEM DEFINITION
 
